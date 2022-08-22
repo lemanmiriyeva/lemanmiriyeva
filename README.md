@@ -43,13 +43,15 @@ I am a Full Stack Python Web Developer <img src="https://media.giphy.com/media/W
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 ---
+###
+
 <p align="center">
     <a href="https://github.com/lemanmiriyeva/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lemanmiriyeva&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 ---
-## 📊 My Github Stats
+### 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/lemanmiriyeva/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lemanmiriyeva&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -66,7 +68,7 @@ I am a Full Stack Python Web Developer <img src="https://media.giphy.com/media/W
 <br/>
 <br/>
 
-## Connect with me:
+### Connect with me:
 <p align="left">
 
 <a href = "https://linkedin.com/in/leman-miriyeva-b17796208"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
