@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Gandab</h1>
-<h3 align="center">I'm a passionate Python/Django developer</h3>
+<h1 align="center">Hi, I'm Leman</h1>
+<h3 align="center">I'm a Full Stack Python/Django Web developer</h3>
     <img width="100%" height="auto" src="https://github.com/halfrost/halfrost/raw/master/icons/header_.png" height="175px"/>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
