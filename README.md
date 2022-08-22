@@ -15,7 +15,6 @@ I am a Full Stack Python Web Developer <img src="https://media.giphy.com/media/W
 - 🌱 I’m currently learning **Django, React**
 
 - 📫 How to reach me **leman.miriyeva02@mail.ru**
----
 
 ### 🚀 &nbsp;Languages and Tools :
 
@@ -50,7 +49,7 @@ I am a Full Stack Python Web Developer <img src="https://media.giphy.com/media/W
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lemanmiriyeva&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
----
+
 ### 📊 My Github Stats
 
   <br/>
