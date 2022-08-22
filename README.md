@@ -16,6 +16,10 @@ I am a Full Stack Python Web Developer <img src="https://media.giphy.com/media/W
 
 - 📫 How to reach me **leman.miriyeva02@mail.ru**
 
+<br/>
+<br/>
+<br/>
+<br/>
 ### 🚀 &nbsp;Languages and Tools :
 
 <p>
@@ -48,6 +52,10 @@ I am a Full Stack Python Web Developer <img src="https://media.giphy.com/media/W
     </a>
 </p>
 
+<br/>
+<br/>
+<br/>
+<br/>
 ### 📊 My Github Stats
 
   <br/>
@@ -60,11 +68,16 @@ I am a Full Stack Python Web Developer <img src="https://media.giphy.com/media/W
 <br/>
 <br/>
 
+
 <a href="https://github.com/lemanmiriyeva/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lemanmiriyeva&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
 
+<br/>
+<br/>
+<br/>
+<br/>
 ### Connect with me:
 <p align="left">
 
