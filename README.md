@@ -41,8 +41,6 @@ I am a Full Stack Python Web Developer <img src="https://media.giphy.com/media/W
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
----
-###
 
 <p align="center">
     <a href="https://github.com/lemanmiriyeva/github-readme-streak-stats">
