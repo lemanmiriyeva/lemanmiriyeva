@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Full Stack Python/Django Web developer</h3>
     <img width="100%" height="auto" src="https://github.com/halfrost/halfrost/raw/master/icons/header_.png" height="175px"/>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=lemanmiriyeva&style=flat-square&color=blue" alt=""></p>
 
 
 
