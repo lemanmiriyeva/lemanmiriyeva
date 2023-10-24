@@ -12,8 +12,6 @@ I am a Full Stack Python Web Developer <img src="https://media.giphy.com/media/W
 
 - 🔭 I’m currently working on [Tech Academy Baku](https://github.com/TechAcademy-Azerbaijan)
 
-- 🌱 I’m currently learning **Django, React**
-
 - 📫 How to reach me **leman.miriyeva02@mail.ru**
 
 ### 🚀 &nbsp;Languages and Tools :
