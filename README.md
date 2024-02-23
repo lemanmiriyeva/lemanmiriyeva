@@ -67,7 +67,7 @@ I am a Full Stack Python Web Developer <img src="https://media.giphy.com/media/W
 ### Connect with me:
 <p align="left">
 
-<a href = "https://linkedin.com/in/leman-miriyeva-b17796208"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://linkedin.com/in/laman-mirizada"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://facebook.com/profile.php?id=100051776313292"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
 
 
